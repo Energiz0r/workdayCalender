@@ -1,0 +1,102 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender", "WorkdayCalender\WorkdayCalender.csproj", "{F9035632-840D-4FCE-A911-F4CC9D28DD46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Brute", "1. Brute", "{BB705C59-67C1-46A7-AA33-54F8A7ADF9AE}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender.Tests", "WorkdayCalender.Tests\WorkdayCalender.Tests.csproj", "{32B4DAA6-D299-4F03-B12E-52A81DC4BC78}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Tickbased", "2. Tickbased", "{89BB84B4-F656-4CFB-9AA7-83B4AA338F74}"
+	ProjectSection(SolutionItems) = preProject
+		Readme2.txt = Readme2.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender2", "WorkdayCalendar\WorkdayCalender2.csproj", "{FE8421DB-199C-461B-8404-ABC67F78F2CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender2.Tests", "WorkdayCalender2.Tests\WorkdayCalender2.Tests.csproj", "{39C80EAF-DC49-490F-801B-DB4B6541D2CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Optimized", "3. Optimized", "{08047EE1-60FF-468B-BF27-9872E7DB5DA0}"
+	ProjectSection(SolutionItems) = preProject
+		Readme3.txt = Readme3.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. SOLIDed", "4. SOLIDed", "{52618873-A8F8-496A-BE21-7CAE15D97F95}"
+	ProjectSection(SolutionItems) = preProject
+		Readme4.txt = Readme4.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{46FFBE2B-EF71-4C10-9EDD-0B2A55A35401}"
+	ProjectSection(SolutionItems) = preProject
+		ReadmeMain.txt = ReadmeMain.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender4", "WorkdayCalender4\WorkdayCalender4\WorkdayCalender4.csproj", "{C5FC6E51-752E-4A43-B67F-207D7484D7E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender4.Tests", "WorkdayCalender4.Tests\WorkdayCalender4.Tests\WorkdayCalender4.Tests.csproj", "{EA9296EF-6691-46FA-8EB6-354FE9765AAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkCalender3", "WorkdayCalender3\WorkCalender3\WorkCalender3.csproj", "{D6315525-14CD-459E-BD99-3180E4497ADA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkdayCalender3.Tests", "WorkdayCalender3.Tests\WorkdayCalender3.Tests\WorkdayCalender3.Tests.csproj", "{675980D5-462F-4ADC-BC63-FBBB8C924684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9035632-840D-4FCE-A911-F4CC9D28DD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9035632-840D-4FCE-A911-F4CC9D28DD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9035632-840D-4FCE-A911-F4CC9D28DD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9035632-840D-4FCE-A911-F4CC9D28DD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B4DAA6-D299-4F03-B12E-52A81DC4BC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B4DAA6-D299-4F03-B12E-52A81DC4BC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B4DAA6-D299-4F03-B12E-52A81DC4BC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B4DAA6-D299-4F03-B12E-52A81DC4BC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8421DB-199C-461B-8404-ABC67F78F2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8421DB-199C-461B-8404-ABC67F78F2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8421DB-199C-461B-8404-ABC67F78F2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8421DB-199C-461B-8404-ABC67F78F2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C80EAF-DC49-490F-801B-DB4B6541D2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C80EAF-DC49-490F-801B-DB4B6541D2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C80EAF-DC49-490F-801B-DB4B6541D2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C80EAF-DC49-490F-801B-DB4B6541D2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5FC6E51-752E-4A43-B67F-207D7484D7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5FC6E51-752E-4A43-B67F-207D7484D7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5FC6E51-752E-4A43-B67F-207D7484D7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5FC6E51-752E-4A43-B67F-207D7484D7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9296EF-6691-46FA-8EB6-354FE9765AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9296EF-6691-46FA-8EB6-354FE9765AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9296EF-6691-46FA-8EB6-354FE9765AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9296EF-6691-46FA-8EB6-354FE9765AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6315525-14CD-459E-BD99-3180E4497ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6315525-14CD-459E-BD99-3180E4497ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6315525-14CD-459E-BD99-3180E4497ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6315525-14CD-459E-BD99-3180E4497ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675980D5-462F-4ADC-BC63-FBBB8C924684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675980D5-462F-4ADC-BC63-FBBB8C924684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675980D5-462F-4ADC-BC63-FBBB8C924684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675980D5-462F-4ADC-BC63-FBBB8C924684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9035632-840D-4FCE-A911-F4CC9D28DD46} = {BB705C59-67C1-46A7-AA33-54F8A7ADF9AE}
+		{32B4DAA6-D299-4F03-B12E-52A81DC4BC78} = {BB705C59-67C1-46A7-AA33-54F8A7ADF9AE}
+		{FE8421DB-199C-461B-8404-ABC67F78F2CB} = {89BB84B4-F656-4CFB-9AA7-83B4AA338F74}
+		{39C80EAF-DC49-490F-801B-DB4B6541D2CB} = {89BB84B4-F656-4CFB-9AA7-83B4AA338F74}
+		{C5FC6E51-752E-4A43-B67F-207D7484D7E8} = {52618873-A8F8-496A-BE21-7CAE15D97F95}
+		{EA9296EF-6691-46FA-8EB6-354FE9765AAB} = {52618873-A8F8-496A-BE21-7CAE15D97F95}
+		{D6315525-14CD-459E-BD99-3180E4497ADA} = {08047EE1-60FF-468B-BF27-9872E7DB5DA0}
+		{675980D5-462F-4ADC-BC63-FBBB8C924684} = {08047EE1-60FF-468B-BF27-9872E7DB5DA0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88E7DCDB-6150-46EC-890A-EE23C453061E}
+	EndGlobalSection
+EndGlobal
